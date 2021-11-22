@@ -1,2 +1,5 @@
 # Humming-Bird
-js game
+
+P5jsで作成されたゲーム
+
+# 遊びかt
